@@ -21,7 +21,6 @@ https://github.com/user-attachments/assets/f4af0ada-c6bb-4a24-a17e-1264a54c252a
 movabledock/
 ├── lib/
 │   ├── main.dart  # Entry point of the app
-│   ├── dock.dart  # Dock widget handling reorderable items
 │
 ├── pubspec.yaml   # Dependencies and metadata
 ├── README.md      # Project documentation
